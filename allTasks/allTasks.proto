@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+package allTasks;
+
+option go_package = "allTasks";
